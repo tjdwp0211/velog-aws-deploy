@@ -16,7 +16,7 @@ export default function Home() {
       </Head>
       <S.Wrapper>
         <S.Container>
-          <p>Hi.</p>
+          <p>Hi</p>
           <p>VELOG</p>
           <p>SUNG</p>
           <p>JE</p>
