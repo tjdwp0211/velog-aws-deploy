@@ -17,10 +17,10 @@ export default function Home() {
       <S.Wrapper>
         <S.Container>
           <p>Hi</p>
-          <p>VELOG</p>
           <p>SUNG</p>
           <p>JE</p>
           <p>KIM</p>
+          <p>VELOG</p>
         </S.Container>
       </S.Wrapper>
     </>
